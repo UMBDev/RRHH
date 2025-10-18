@@ -1,0 +1,1 @@
+Aquí se incluirá el diagrama de Contexto C4. Define las fronteras del sistema: qué hace el módulo y con qué sistemas externos interactúa (ej. el ERP existente, un sistema de notificaciones por email).
